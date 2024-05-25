@@ -1,0 +1,31 @@
+{
+    "autores": [
+      {
+        "id":"046000111",
+        "contraseña": "Grao000"
+      },
+      {
+        "id": "222",
+        "contraseña": "Grao222"
+      }
+    
+    ],
+    "servicios":[
+      {
+        "id": "046000111",
+        "codigo":"1111",
+        "nombreCliente" : "Manolo Jimenez",
+        "direccion": "Calle de Alcalá, 50, 28014 Madrid, España",
+        "telefono": "644411261",
+        "cobrarAlCliente": false,
+        "fechaServicio": " " ,
+        "codBarras": "460001110001",
+        "incidencia": false,
+        "incidenciaText": "" ,
+        "incidenciaObservarciones": "",
+        "finalizado": false ,
+        "imagenAsStringBase64": ""
+      }
+    ]
+  
+  }
